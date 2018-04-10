@@ -7,9 +7,9 @@ import hmac
 import json
 
 # Credentials
-AccessId = "dSpe6j9eTQXs3Iph7jCU"
-AccessKey = "dcm!p2d2w79V=5f}+[354xL=g{k442Y6h5qV}C_6"
-account = "ianbloom"
+AccessId = "#############"
+AccessKey = "############"
+account = "#########"
 
 # Request Info
 httpVerb ='GET'
